@@ -2,13 +2,25 @@
     --profile-size: 10rem
 }
 
-.hero {
+main {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    min-height: 60vh;
     text-align: center;
+}
+
+.heromain {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 75vh;
+    text-align: center;
+}
+
+.downarrow {
+    min-height: 15vh;
 }
 
 .profile {
