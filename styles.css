@@ -10,7 +10,7 @@ main {
     text-align: center;
 }
 
-.heromain {
+.hero {
     display: flex;
     flex-direction: column;
     justify-content: center;
