@@ -18,3 +18,13 @@
     object-fit: cover;
     border-radius: 100%
 }
+
+.subheading {
+    margin-top: 0.5rem
+}
+
+.subheadingtxt {
+    font-size: 1rem;
+    margin-top: 0.2rem;
+    margin-bottom: 0rem
+}
