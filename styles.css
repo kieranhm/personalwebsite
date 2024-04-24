@@ -1,0 +1,20 @@
+:root {
+    --profile-size: 10rem
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 60vh;
+    text-align: center;
+}
+
+.profile {
+    max-width: var(--profile-size);
+    max-height: var(--profile-size);
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 100%
+}
